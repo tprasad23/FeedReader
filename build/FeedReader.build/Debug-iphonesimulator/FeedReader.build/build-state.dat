@@ -1,0 +1,426 @@
+TFeedReader
+v7
+r0
+t366785063.938517
+cCheck dependencies
+cProcessInfoPlistFile /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/Info.plist FeedReader-Info.plist
+cCompileXIB /Users/tprasad23/Documents/IOS_APPS/FeedReader/MainWindow.xib
+cCompileXIB /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController.xib
+cProcessPCH /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch.gch FeedReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/main.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderAppDelegate.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/ListViewController.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/DetailViewController.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController_iPad.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader normal i386
+cGenerateDSYMFile /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app.dSYM /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader
+cTouch /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/../SingleEntry.h
+c000000005029F2900000000000000226
+t1344926352
+s550
+i<Foundation/Foundation.h>
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/../SingleEntry.m
+c00000000502A8A8C0000000000000257
+t1344965260
+s599
+i"SingleEntry.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.h
+c00000000502C58DA00000000000002AB
+t1345083610
+s683
+i<UIKit/UIKit.h>
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.m
+c00000000502C74F70000000000001312
+t1345090807
+s4882
+i"DetailViewController.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.h
+c000000005026B1B300000000000001F0
+t1344713139
+s496
+i<UIKit/UIKit.h>
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m
+c00000000502C7BFF0000000000000C57
+t1345092607
+s3159
+i"FeedReaderAppDelegate.h"
+i"FeedReaderViewController.h"
+i"FeedReaderViewController_iPad.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.h
+c00000000502C521C0000000000000157
+t1345081884
+s343
+i<UIKit/UIKit.h>
+i"ListViewController.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.m
+c00000000502C52030000000000000BD3
+t1345081859
+s3027
+i"FeedReaderViewController.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.h
+c00000000502B47BA00000000000002DC
+t1345013690
+s732
+i<UIKit/UIKit.h>
+i"DetailViewController.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.m
+c00000000502C582B000000000000214E
+t1345083435
+s8526
+i"ListViewController.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/Parser.h
+c00000000502969E6000000000000031F
+t1344891366
+s799
+i<Foundation/Foundation.h>
+i"SingleEntry.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/Parser.m
+c000000005029F2370000000000000E0B
+t1344926263
+s3595
+i"Parser.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController.xib
+c000000005026B1B30000000000001A51
+t1344713139
+s6737
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.h
+c00000000502C787E0000000000000100
+t1345091710
+s256
+i<UIKit/UIKit.h>
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.m
+c00000000502C79FA0000000000000815
+t1345092090
+s2069
+i"FeedReaderViewController_iPad.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReader_Prefix.pch
+c000000005026B1B300000000000000BD
+t1344713139
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/MainWindow.xib
+c000000005026B1B30000000000004E4D
+t1344713139
+s20045
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/SingleEntry.h
+c000000005029F2900000000000000226
+t1344926352
+s550
+i<Foundation/Foundation.h>
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/SingleEntry.m
+c000000005026C31800000000000000C9
+t1344717592
+s201
+i"SingleEntry.h"
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app
+t1345092263
+s238
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app.dSYM
+t1345092263
+s102
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader
+t1345092263
+s50320
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReaderViewController.nib
+t1344713154
+s795
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/Info.plist
+t1344713154
+s603
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/MainWindow.nib
+t1344713154
+s1129
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/PkgInfo
+t1344713154
+s8
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/DetailViewController.o
+t1345092104
+s59372
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReader.LinkFileList
+c00000000502C7A07000000000000038C
+t1345092103
+s908
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderAppDelegate.o
+t1345092263
+s53496
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController.o
+t1345083611
+s52604
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController_iPad.o
+t1345092104
+s40576
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/ListViewController.o
+t1345083611
+s74620
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/Parser.o
+t1344927023
+s60756
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/SingleEntry.o
+t1344965832
+s12276
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/main.o
+t1344713156
+s6320
+
+N/Users/tprasad23/Documents/IOS_APPS/FeedReader/main.m
+c000000005026B1B3000000000000016B
+t1344713139
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch.gch
+t1344713155
+s15453392
+
+NFeedReader-Info.plist
+c000000005026B1B3000000000000038D
+t1344713139
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies366785063#366785063#0(0"0(0#1#0"8649782208#0"0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/DetailViewController.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366784903.975074
+e366784904.229244
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/DetailViewController.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.m366784903#366784904#0(0"0(0#0#77"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.m8632082112#2102"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/DetailViewController.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderAppDelegate.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366785063.719879
+e366785063.882954
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderAppDelegate.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m: In function '-[FeedReaderAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m:28: warning: local declaration of 'viewController' hides instance variable
+o/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m:32: warning: local declaration of 'viewController' hides instance variable
+lSLF07#2@86"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m366785063#366785063#0(471"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m: In function '-[FeedReaderAppDelegate application:didFinishLaunchingWithOptions:]':/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m:28: warning: local declaration of 'viewController' hides instance variable/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m:32: warning: local declaration of 'viewController' hides instance variable2(22@61"Local declaration of 'viewController' hides instance variable366785063#163#154#0(6@78"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m366785061#28#0#28#0#0"0(22@61"Local declaration of 'viewController' hides instance variable366785063#317#154#0(6@78"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m366785061#32#0#32#0#0"0(0#0#78"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m8624865536#2104"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderAppDelegate.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderAppDelegate.o0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366776411.561036
+e366776411.658651
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.m366776411#366776411#0(0"0(0#0#81"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.m8600974976#2110"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/FeedReaderViewController.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController.o0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController_iPad.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366784904.094205
+e366784904.292402
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController_iPad.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.m366784904#366784904#0(0"0(0#0#78"/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.m8631575936#2112"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController_iPad.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReaderViewController_iPad.o0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/ListViewController.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366776411.658748
+e366776411.792967
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/ListViewController.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.m366776411#366776411#0(0"0(0#0#75"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.m8614165504#2098"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/ListViewController.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/ListViewController.o0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/Parser.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/Parser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366619823.225916
+e366619823.401995
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/Parser.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/Parser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/Parser.m366619823#366619823#0(0"0(0#0#63"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/Parser.m8612598624#2074"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/Parser.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/Parser.o0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/SingleEntry.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/../SingleEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366658632.095570
+e366658632.249305
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/SingleEntry.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/../SingleEntry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/../SingleEntry.m366658632#366658632#0(0"0(0#0#71"/Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/../SingleEntry.m8617904832#2087"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/Classes/../SingleEntry.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/SingleEntry.o0#
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/SingleEntry.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/SingleEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/main.o /Users/tprasad23/Documents/IOS_APPS/FeedReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366405955.964890
+e366405956.115579
+r1
+xCompileC
+xbuild/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/main.o
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/main.m366405955#366405956#0(0"0(0#0#53"/Users/tprasad23/Documents/IOS_APPS/FeedReader/main.m8604404064#2062"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -include /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/main.m -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController.xib
+s366405954.113709
+e366405954.708927
+r1
+xCompileXIB
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController.xib
+lSLF07#2@39"CompileXIB FeedReaderViewController.xib366405954#366405954#0(0"0(0#0#75"/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController.xib8604887584#625"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReaderViewController.nib /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReaderViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tprasad23/Documents/IOS_APPS/FeedReader/MainWindow.xib
+s366405954.094810
+e366405954.717614
+r1
+xCompileXIB
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib366405954#366405954#0(0"0(0#0#61"/Users/tprasad23/Documents/IOS_APPS/FeedReader/MainWindow.xib8605050176#597"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/MainWindow.nib /Users/tprasad23/Documents/IOS_APPS/FeedReader/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app.dSYM /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader
+s366785063.913334
+e366785063.935607
+r1
+xGenerateDSYMFile
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app.dSYM
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/FeedReader.app.dSYM build/Debug-iphonesimulator/FeedReader.app/FeedReader366785063#366785063#0(0"0(0#0#100"/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader8647865312#416"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app.dSYM0#
+
+CLd /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader normal i386
+s366785063.883050
+e366785063.913231
+r1
+xLd
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader
+xnormal
+xi386
+lSLF07#2@105"Link /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader366785063#366785063#0(0"0(0#0#0"8648286144#955"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -filelist /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/Objects-normal/i386/FeedReader.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/FeedReader0#
+
+CProcessInfoPlistFile /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/Info.plist FeedReader-Info.plist
+s366405953.825559
+e366405954.094703
+r1
+xProcessInfoPlistFile
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/Info.plist
+xFeedReader-Info.plist
+lSLF07#2@29"Process FeedReader-Info.plist366405954#366405954#0(0"0(0#0#68"/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReader-Info.plist27303270316900452#512"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FeedReader-Info.plist -genpkginfo /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app/Info.plist0#
+
+CProcessPCH /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch.gch FeedReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s366405954.717829
+e366405955.964663
+r1
+xProcessPCH
+x/var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch.gch
+xFeedReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile FeedReader_Prefix.pch366405954#366405955#0(0"0(0#0#68"/Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReader_Prefix.pch8604182432#1943"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-generated-files.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-own-target-headers.hmap -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-all-target-headers.hmap -iquote /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/FeedReader-project-headers.hmap -F/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/include -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources/i386 -I/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/FeedReader.build/Debug-iphonesimulator/FeedReader.build/DerivedSources -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/FeedReader_Prefix.pch -o /var/folders/r2/r2SFs0dAE5eTjxPX04AVsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FeedReader_Prefix-csgxlfueansbcefrldtmxgmbyjag/FeedReader_Prefix.pch.gch0#
+
+CTouch /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app
+s366785063.935702
+e366785063.938467
+r1
+xTouch
+x/Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app
+lSLF07#2@95"Touch /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app366785063#366785063#0(0"0(0#0#0"8647239040#297"    cd /Users/tprasad23/Documents/IOS_APPS/FeedReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tprasad23/Documents/IOS_APPS/FeedReader/build/Debug-iphonesimulator/FeedReader.app0#
+
